@@ -29,6 +29,10 @@ public class empData {
 		
 		boolean nation=false;
 				System.out.println("Employee Nationality is Indian:" +nation);
+				
+				//malar
+				
+				System.out.println("ind");
 	}
 	
 
