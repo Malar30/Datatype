@@ -33,6 +33,8 @@ public class empData {
 				//malar
 				
 				System.out.println("ind");
+				
+				System.out.println("US");
 	}
 	
 
